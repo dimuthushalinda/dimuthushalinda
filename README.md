@@ -1,4 +1,4 @@
-<img width="1892" height="863" alt="Hello There"  alt="image" src="https://github.com/user-attachments/assets/c31c01ab-ab8f-44a4-8400-371a81184107"/>
+<img width="1892" height="863" alt="Hello There"  alt="image" src="hero.PNG"/>
 
 <h1 align="center">Hi 👋, I'm Dimuthu Shalinda</h1>
 <p align="center">
