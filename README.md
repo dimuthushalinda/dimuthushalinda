@@ -13,7 +13,7 @@
 <h2 align="center">About Me</h2>
 - 🌱 I’m currently learning <b>NET Framework ,HTML,CSS,JAVA SCRIPT JAVA , C# , OOP , PHP , SQL at Advanced Technological Institute Galle</b>
 
-- 👨‍💻 All of my projects are available at [https://dimuthu-shalinda-portfolio.vercel.app/](https://dimuthu-shalinda-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dimuthushalinda-portfolio.vercel.app/](https://dimuthushalinda-portfolio.vercel.app/)
 
 - 📫 How to reach me **dimuthushalinda0404@gmail.com**
 
