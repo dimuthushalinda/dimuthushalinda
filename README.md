@@ -23,9 +23,9 @@
   
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/dimuthu shalinda" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/LinkedIn.svg" height="30" width="40" /></a>
-<a href="https://fb.com/dimuthu shalinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimuthu shalinda" height="30" width="40" /></a>
-<a href="https://instagram.com/dimuthu shalinda" target="blank"><img align="center" src="https://github.com/nimesh-1234/skill-icons/blob/main/icons/Instagram.svg" alt="dimuthu shalinda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dimuthu-shalinda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nimesh-1234/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1FwYr4nqBB/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dimu2shalinda?igsh=MXYzc2ZsZGRxMjk5Yw==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nimesh-1234/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 <br><br>
 <h2 align="center">Languages and Tools</h2>
