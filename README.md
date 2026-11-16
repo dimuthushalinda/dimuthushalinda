@@ -49,7 +49,7 @@
  <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/Scopiarchy">
+  <a href="https://github.com/dimuthushalinda">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimuthushalinda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/dimuthushalinda">
