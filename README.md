@@ -50,9 +50,9 @@
 
 <p align="center">
   <a href="https://github.com/dimuthushalinda">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dimuthushalinda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-seven-neon-66.vercel.app/api?username=dimuthushalinda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/dimuthushalinda">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimuthushalinda&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-seven-neon-66.vercel.app/api/top-langs/?username=dimuthushalinda&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
