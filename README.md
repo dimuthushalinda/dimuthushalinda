@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dimuthushalinda0404@gmail.com**
 
-- 📄 Know about my experiences [https://dimuthu-shalinda-portfolio.vercel.app/assets/resume.pdf](https://dimuthu-shalinda-portfolio.vercel.app/assets/resume.pdf)
+- 📄 Know about my experiences [https://dimuthushalinda-portfolio.vercel.app/assets/resume.pdf](https://dimuthushalinda-portfolio.vercel.app/assets/resume.pdf)
 
 - ⚡ Fun fact **Call me as Scopy**
   
